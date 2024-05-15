@@ -105,6 +105,7 @@ class HomeScreen extends StatelessWidget {
                       hintText: "Search here...",
                       hintStyle: TextStyle(
                         color: Colors.black.withOpacity(0.5),
+                        fontSize: 20,
                       ),
                       prefixIcon: Icon(
                         Icons.search,
